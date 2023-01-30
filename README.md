@@ -1,5 +1,4 @@
 # ✨  PillTime!!! ✨
-LINK - https://svstyles.github.io/FRTProject/
 
 This is a web based application developed for aging individuals with poor capability of taking care of themselves.
 
@@ -7,7 +6,7 @@ This is a web based application developed for aging individuals with poor capabi
 
 
 **Project Link** - https://ashy-moss-04e821a10.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://drive.google.com/file/d/1-ASHASfIdQW54uehNrN3mC8pJcP2GPfW/view?usp=share_link
 
 ## Azure technologies used for Project
 
@@ -25,14 +24,15 @@ This is a web based application developed for aging individuals with poor capabi
 
 ## Screenshots
 
+![Screenshot (794)](https://user-images.githubusercontent.com/84014627/215515004-306eab2e-6988-4b65-bbec-2d5a9e5c38a9.png)
+![Screenshot (795)](https://user-images.githubusercontent.com/84014627/215515036-ce94b80d-4617-438c-bf59-674511331090.png)
 
+![Screenshot (797)](https://user-images.githubusercontent.com/84014627/215515109-d811eb63-902b-449a-be82-050a49615ae7.png)
 
+![Screenshot (799)](https://user-images.githubusercontent.com/84014627/215515243-a77eac23-6188-4b23-9103-2bba64913701.png)
+![Screenshot (801)](https://user-images.githubusercontent.com/84014627/215515777-3a35c6f9-02fa-4168-b537-4ae5bce4ace4.png)
 
-
-
-## health bot
-
-
+![Screenshot (802)](https://user-images.githubusercontent.com/84014627/215515795-58598023-168e-437f-b921-6230bc4fe11c.png)
 
 
 ## Tech Stack 💻
